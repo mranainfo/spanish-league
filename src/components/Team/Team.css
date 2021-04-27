@@ -1,0 +1,22 @@
+.team-box{
+    border: 1px solid lightgray;
+    padding: 15px;
+    margin: 10px;
+    background-color: #fff;
+    width: 350px;
+    height: 320px;
+    border-radius: 4px;
+    float: left;
+    cursor: pointer;
+    transition: all ease .3s;
+}
+.team-box:hover{
+    background-color: lightgreen;
+}
+.team-img{
+    width: 150px;
+    height: 150px;
+}
+.team-title{
+    color: #000080;
+}

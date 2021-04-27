@@ -1,0 +1,9 @@
+@media (max-width: 575.98px){
+    .detail-box{
+        height: 470px;
+    }
+    .banner-img{
+        margin-top: 20px;
+        height: 170px;
+    }
+}

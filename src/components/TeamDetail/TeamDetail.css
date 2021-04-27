@@ -1,0 +1,25 @@
+.detail-box{
+    background-color: mediumseagreen;
+    margin-top: 20px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.banner-img{
+    height: 260px;
+}
+.text-des{
+    text-align: justify;
+    color: #484848;
+    padding: 10px;
+}
+.social-icon{
+    font-size: 18px;
+    color: #000080;
+    margin: 0 5px;
+    transition: all ease .3s;
+}
+.social-icon:hover{
+    color: red;
+ }
